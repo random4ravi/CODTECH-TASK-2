@@ -1,3 +1,4 @@
+
 ## PERSONAL DETAILS :
   #### Name : RAVI RANJAN KUMAR
   #### Company : CODTECH IT SOLUTIONS
@@ -57,3 +58,4 @@ Finally, the if _name_ == "_main_": block ensures that the main() function is on
 
 ## RUN THE CODE :
   For writing and running the code,I used an IDE(vs code),a text editor with Python support 
+![TASK2](https://github.com/user-attachments/assets/acfd18df-fb85-4ce7-a502-6de4821b9a7e)
